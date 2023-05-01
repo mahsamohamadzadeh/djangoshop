@@ -3,7 +3,7 @@ for use this project first
 pip3 install -r requirements.txt to add package
 ### Main features
 
-* Custon User Model
+* Custom User Model
 
 * Verify Code and Send Sms
 
